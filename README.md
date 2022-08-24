@@ -15,9 +15,9 @@
 * Containerization and Virtualization - Docker, Docker Swarm, Kubernetes, Vagrant, Packer
 * Programming languages - PHP, go, java
 * Observability and monitoring - Prometheus, Alertmanager, Chef Inspec, Vector
-* others - Traefik
-* passion for security
-* cover whole lifecycle of products (build, deploy, operate)
+* Others - Traefik
+* Passion for security
+* Cover whole lifecycle of products (build, deploy, operate)
 
 ## Work experience
 
