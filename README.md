@@ -32,7 +32,7 @@ DevOps technical lead | November 2019 → present
 * Introduction Vault and Consul for wider engineering usage
 
 
-DevOps engineer | March 2017 → November 2019
+DevOps engineer | March 2017 → October 2019
 
 * Creation and maintainance of automation tools and processes
 *  Maintainance of  CI/CD, deployment tools and processes
