@@ -11,7 +11,7 @@
 
 * CI/CD stack - pipelines (GitLab, Bamboo, Jenkins), tools (Artifactory, SonarQube)
 * HashiCorp stack - Vault, Consul
-* IaC - Terraform, SaltStack
+* Infrastructure as code - Terraform, SaltStack
 * Containerization and Virtualization - Docker, Docker Swarm, Kubernetes, Vagrant, Packer
 * Programming languages - PHP, go, java
 * Observability and monitoring - Prometheus, Alertmanager, Chef Inspec, Vector
