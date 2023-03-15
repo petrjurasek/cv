@@ -21,9 +21,13 @@
 
 ## Work experience
 
+### Tatum
+
+Senior engineer | Jnauary 2023 → present
+
 ### Currys CoE s.r.o. (Dixons Carphone CoE s.r.o.)
 
-DevOps technical lead | November 2019 → present
+DevOps technical lead | November 2019 → December 2022
 
 * Leading and upskilling other team members in both principles and technical background of DevOps culture
 * Sharing DevOps culture and principles with engineering teams
